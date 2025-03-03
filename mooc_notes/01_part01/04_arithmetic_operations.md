@@ -232,7 +232,7 @@ data = int(input("What is your age? "))
 
 A better idea is to use separate variables, with descriptive names:
 
-```
+```py
 name = input("What is your name? ")
 print("Hi " + name + "!")
 
